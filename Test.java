@@ -1,5 +1,7 @@
 class Test
 {
-System.out.println("first");
-System.out.println("second");
+System.out.println("initial first");
+System.out.println("in branch second");
+
+System.out.println("Third change in branch 2");
 }
